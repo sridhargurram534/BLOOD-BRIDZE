@@ -1,0 +1,6 @@
+{
+  "name": "Blood Bridge",
+  "description": "Emergency blood-alert platform broadcasting urgent requests to opted-in users within a selected geographical radius.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
